@@ -69,7 +69,7 @@ Each agent is evaluated against role-specific correctness criteria:
 |---|---|---|
 | Dialogue | Free-text response | Manual / semantic recall check |
 | Monitoring | `phq8_score`, `severity` | Regex extraction of PHQ-8 score |
-| Planning | `step_of_care`, `primary_intervention`, `secondary_interventions` | NICE NG222/NG208 severity tier keyword matching |
+| Planning | `step_of_care`, `primary_intervention`, `secondary_interventions` | NICE NG222 severity tier keyword matching |
 
 ---
 
