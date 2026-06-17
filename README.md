@@ -81,4 +81,4 @@ This benchmark is derived from the DAIC-WOZ corpus, which is subject to a restri
 
 ## Reference
 
-> M. Cheung (2026). *Selective Machine Unlearning in Multi-Agent Psychotherapy Systems*. Bachelor's Thesis.
+> M. M. Cheung (2026). *Selective Machine Unlearning in Multi-Agent Psychotherapy Systems*. Bachelor's Thesis.
