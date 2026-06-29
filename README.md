@@ -75,7 +75,7 @@ Each agent is evaluated against role-specific correctness criteria:
 
 ## Data Use
 
-This benchmark is derived from the DAIC-WOZ corpus, which is subject to a restricted data use agreement. Raw transcripts and audio are not included. All files contain processed QA pairs only.
+This benchmark is derived from the DAIC-WOZ corpus, which is subject to a restricted data use agreement. Raw transcripts and audio are not included. All files contain processed QA pairs only. The original DAIC-WOZ corpus is available at https://dcapswoz.ict.usc.edu/.
 
 ---
 
